@@ -2,7 +2,7 @@
 
 ## Aspiring Developer specialised in Django.
 
-- <p>🌱 I’m currently learning</p>  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+- <p>🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> </p>
 - 💬 Ask me about **Python, Javascript, Django, CSS, HTML, FLASK**
 - 📫 How to reach me **inbox@Unkn0wn2603.com**
 
