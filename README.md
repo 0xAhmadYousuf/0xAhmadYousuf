@@ -70,3 +70,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2 align="center">Welcome Leet's <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" height="25px"></h2>
+
+```nim
+┌──(root@Unkn0wn2630)-[~/]
+└─$ cat Unkn0wn2630.nim
+
+proc initUnkn0wn2630(): Unkn0wn2630 =
+  result.Instagram = "https://instagram.com/Unkn0wn2630"
+
+let Unkn0wn2630 = Unkn0wn2630()
+  
+ ┌──(root@Unkn0wn2630)-[~/]
+ └─$
+```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,powershell,bash,nim,cs,cpp,go,ruby,js,php,mongodb,mysql,css,html" />
+  </a>
+</p>
+<h2 align="center"></h2>
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
