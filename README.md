@@ -1,65 +1,56 @@
-# I'm Ahmad Yousuf, Aspiring Developer specialised in Python & Django.
 
-<div align="left">
-  <h2> 💻 I code with:<h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+
+<div style="text-align: left; font-size: 20px;">
+  <b style="font-size: 30px;">I'm Ahmad Yousuf</b>
+  <br>
+  <b>Aspiring Developer specialised in Django.</b>
 </div>
-<h2 align="center">## 🌐 Socials:<h2>
-<div align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/Unkn0wn2603/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/Unkn0wn2603/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/Unkn0wn2603/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.twitter.com/Unkn0wn2603/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/Unkn0wn2603/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="left" style="text-decoration: none;">
+  <div style="text-align: left; font-size: 20px;">
+      <br><b>🌐 Socials:</b><br><br>
+  </div>
+    <a href="https://www.linkedin.com/in/Unkn0wn2603/"
+        target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+            width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="https://www.facebook.com/Unkn0wn2603/"
+        target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+            width="52" height="40" alt="facebook logo" />
+    </a>
+    <a href="https://t.me/Unkn0wn2603/" target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+            width="52" height="40" alt="telegram logo" />
+    </a>
+    <a href="https://www.twitter.com/Unkn0wn2603/"
+        target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+            width="52" height="40" alt="twitter logo" />
+    </a>
+    <a href="https://www.instagram.com/Unkn0wn2603/"
+        target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+            width="52" height="40" alt="instagram logo" />
+    </a>
 </div>
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603) 
 <a href = 'https://www.fiverr.com/Unkn0wn2603'><img src = "https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
 
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,powershell,bash,nim,cs,cpp,go,ruby,js,php,mongodb,mysql,css,html" />
-  </a>
-</p>
-<h2 align="center"></h2>
-
-
-
-
-
-
-
-
-
-
-With over 5 years of experience in Native Web App Development, my expertise lies primarily in Python and API systems. I've honed my problem-solving skills through challenges on platforms like LeetCode, excelling in MVVM Architecture, Rest API, and integrations with Firebase, Google Maps, and more. Venturing into Backend Technology, I've mastered Django for secure web applications and automation, with a strong emphasis on cybersecurity garnered through CTF experiences. I've contributed to successful backend projects, understanding SQL for database management. Proficient in English, Urdu, Farsi, and Arabic, my linguistic versatility fosters effective communication. My adaptable nature thrives in dynamic environments, fostering collaboration and innovation. 
+#### With over 5 years of experience in Native Web App Development, my expertise lies primarily in Python and API systems. I've honed my problem-solving skills through challenges on platforms like LeetCode, excelling in MVVM Architecture, Rest API, and integrations with Firebase, Google Maps, and more. Venturing into Backend Technology, I've mastered Django for secure web applications and automation, with a strong emphasis on cybersecurity garnered through CTF experiences. I've contributed to successful backend projects, understanding SQL for database management. Proficient in English, Urdu, Farsi, and Arabic, my linguistic versatility fosters effective communication. My adaptable nature thrives in dynamic environments, fostering collaboration and innovation. 
 
 ### OPEN SOURCE PROJECTS
 
 | 🎁 Projects                                                                                         |                                                                ⭐ Stars                                                                |                                                               📚 Forks                                                                |                                                               🛎 Issues                                                                |                                                             📬 Pull requests                                                              |
 |-----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-| [ 1 ] Project <a href="https://github.com/0xAhmadYousuf/Hash2603"><b>Hash2603</b></a>     |  <img alt="Stars" src="https://img.shields.io/github/stars/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/forks/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/issues/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |  <img alt="Stars" src="https://img.shields.io/github/issues-pr/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |
+| [ 1 ] <a href="https://github.com/0xAhmadYousuf/Hash2603"><b>Hash2603</b></a>     |  <img alt="Stars" src="https://img.shields.io/github/stars/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/forks/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/issues/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |  <img alt="Stars" src="https://img.shields.io/github/issues-pr/0xAhmadYousuf/Hash2603?style=flat-square&labelColor=343b41"/>  |
  
 ### SKILLS
 ```json
@@ -73,49 +64,26 @@ With over 5 years of experience in Native Web App Development, my expertise lies
 
 }
 ```
-
-### SOCIAL LINKS
-
-
 ### RECENT PROJECTS
-* <p><a href="https://github.com/0xAhmadYousuf/VendorVoyage-SpringBoot-ECommerce-Microservices" target="_blank">Vendor Voyage</a> - Spring Boot E-Commerce Microservices App</p>
-* <p><a href="https://github.com/0xAhmadYousuf/Realtime-Chat-App-Spring-Boot-WebSocket" target="_blank">Spark Convo</a> - Spring Boot WebSocket Microservices App</p>
-* <p><a href="https://play.google.com/store/apps/details?id=com.arotdar.buyer" target="_blank">Arotdar</a> - B2B - E-Commerce Android App</p>
-* <p><a href="https://play.google.com/store/apps/details?id=com.topseba.app" target="_blank">TopSeba</a> - Online Hospital & Doctor Service Android App</p>
-* <p><a href="#" target="_blank">Employee Tracker</a> - Realtime Employee Tracking Android App <b><i>[No Permission to use and view]</i></b></p>
+* <p><a href="https://github.com/0xAhmadYousuf/Hash2603" target="_blank">Hash2603</a> - A Hashing system to make hashing more secure</p>
 
-<h3 align="center">Connect with me:</h3>
+### MY USED - OR LEARNED BUNDLES
+<div style="text-align: center; font-size: 20px;">
+  <br><br><b>MY USED - OR LEARNED BUNDLES</b><br><br>
+</div>
+
 <p align="center">
-<a href="https://linkedin.com/in/saad-ahmed-scse" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/linkedin.png" alt="saad-ahmed-scse" height="55" width="55" /></a>
-<a href="https://fb.com/0xAhmadYousuf" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/facebook-new.png" alt="0xAhmadYousuf" height="50" width="50" /></a>
-<a href="https://instagram.com/vamp9re" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/instagram-new--v1.png" alt="vamp9re" height="55" width="55" /></a>
-<a href="https://leetcode.com/0xAhmadYousuf/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/256/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tritone-tal-revivo.png" alt="0xAhmadYousuf" height="35" width="35" /></a>
-<a href="https://stackoverflow.com/users/10610218/saad-ahmed" target="blank"><img align="center" src="https://img.icons8.com/stickers/48/000000/stackoverflow.png" alt="10610218/saad-ahmed" height="40" width="40" /></a>
-<a href="https://discord.gg/263rX7JwfZ" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/discord-square.png" alt="263rX7JwfZ" height="55" width="55" /></a>
-<a href="https://www.hackerrank.com/0xAhmadYousuf" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="0xAhmadYousuf" height="35" width="35" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,flask,vscode,pycharm,powershell,bash,go,js,mongodb,sqlite,mysql,css,html,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwindcss,windows,linux,kali,ubuntu,github,net,ai,xd,aws,docker,git,replit" />
+  </a>
 </p>
 
-
-
-
-
-
-
-
-
-<h3 align="center">Languages and Tools I use:</h3>
-<p align="center">
-<a href="https://developer.android.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/android-studio--v3.png" alt="Android Studio" height="40" width="40" /></a>
-<a href="https://www.java.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" alt="Java Programming Language" height="47" width="47" /></a>
-<a href="https://kotlinlang.org" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/kotlin.png" alt="Kotlin Programming Language" height="40" width="40" /></a>
-<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/git.png" alt="Git" height="45" width="45" /></a>
-<a href="https://dart.dev" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/dart.png" alt="Dart Programming Language" height="40" width="40" /></a>
-<a href="https://flutter.dev" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/flutter.png" alt="Flutter" height="37" width="37" /></a>
-<a href="https://reactnative.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/react-native.png" alt="React Native Programming" height="37" width="37" /></a>
-<a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/adobe-photoshop.png" alt="Adobe Photoshop" height="45" width="45" /></a>
-<a href="https://www.adobe.com/products/xd.html" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png" alt="Adobe XD" height="45" width="45" /></a>
-</p>
+<h2 align="center"></h2>
 
 <a href="https://github.com/0xAhmadYousuf/"><img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=0xAhmadYousuf&theme=tokyonight&layout=compact&show_icons=true&locale=en" alt="0xAhmadYousuf" /><img align="right" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAhmadYousuf&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="0xAhmadYousuf" /></a>
 </br>
