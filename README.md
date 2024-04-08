@@ -67,12 +67,10 @@
 ### RECENT PROJECTS
 * <p><a href="https://github.com/0xAhmadYousuf/Hash2603" target="_blank">Hash2603</a> - A Hashing system to make hashing more secure</p>
 
-### MY USED - OR LEARNED BUNDLES
-<div style="text-align: center; font-size: 20px;">
-  <br><br><b>MY USED - OR LEARNED BUNDLES</b><br><br>
-</div>
+<h2 align="center"></h2>
 
 <p align="center">
+  <br><b style="text-align: center; font-size: 20px;">MY USED - OR LEARNED BUNDLES</b><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,flask,vscode,pycharm,powershell,bash,go,js,mongodb,sqlite,mysql,css,html,bootstrap" />
   </a>
