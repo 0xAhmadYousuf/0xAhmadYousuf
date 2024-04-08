@@ -1,12 +1,6 @@
 <h1 align="center">I'm Ahmad Yousuf<h1>
 <h2 align="center">Aspiring Developer specialised in Django.<h2>
-
-
-
-
-<!-- - <p>🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> </p> -->
 <h2 align="center">💻 I code with:<h2>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
@@ -18,8 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
-
-
 <h2 align="center">## 🌐 Socials:<h2>
 <div align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/Unkn0wn2603/" target="_blank">
