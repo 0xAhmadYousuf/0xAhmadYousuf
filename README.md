@@ -10,30 +10,30 @@
       <br><b>🌐 Socials:</b><br><br>
   </div>
     <a href="https://www.linkedin.com/in/Unkn0wn2603/"
-        target="_blank">
+        target="_blank" style="text-decoration: none;">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
             width="52" height="40" alt="linkedin logo" />
     </a>
     <a href="https://www.facebook.com/Unkn0wn2603/"
-        target="_blank">
+        target="_blank" style="text-decoration: none;">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
             width="52" height="40" alt="facebook logo" />
     </a>
-    <a href="https://t.me/Unkn0wn2603/" target="_blank">
+    <a href="https://t.me/Unkn0wn2603/" target="_blank" style="text-decoration: none;">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
             width="52" height="40" alt="telegram logo" />
     </a>
     <a href="https://www.twitter.com/Unkn0wn2603/"
-        target="_blank">
+        target="_blank" style="text-decoration: none;">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
             width="52" height="40" alt="twitter logo" />
     </a>
     <a href="https://www.instagram.com/Unkn0wn2603/"
-        target="_blank">
+        target="_blank" style="text-decoration: none;">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
             width="52" height="40" alt="instagram logo" />
