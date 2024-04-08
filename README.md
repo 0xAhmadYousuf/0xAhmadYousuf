@@ -23,7 +23,7 @@
 [![0xAhmadYousuf's GitHub | Stats](https://stats.quine.sh/0xAhmadYousuf/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0xAhmadYousuf)
 
 ## 🌐 Socials:
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/Unkn0wn2603/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -165,6 +165,14 @@ I thrive in dynamic environments, value collaboration, and bring a versatile ski
 <a href="https://www.hackerrank.com/saadahmedscse" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="saadahmedscse" height="35" width="35" /></a>
 </p>
 
+
+
+
+
+
+
+
+
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
 <a href="https://developer.android.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/android-studio--v3.png" alt="Android Studio" height="40" width="40" /></a>
@@ -178,6 +186,11 @@ I thrive in dynamic environments, value collaboration, and bring a versatile ski
 <a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/adobe-photoshop.png" alt="Adobe Photoshop" height="45" width="45" /></a>
 <a href="https://www.adobe.com/products/xd.html" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png" alt="Adobe XD" height="45" width="45" /></a>
 </p>
+
+
+
+
+
 
 <a href="https://github.com/saadahmedscse/"><img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=saadahmedscse&theme=tokyonight&layout=compact&show_icons=true&locale=en" alt="saadahmedscse" /><img align="right" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedscse&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="saadahmedscse" /></a>
 </br>
