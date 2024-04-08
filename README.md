@@ -29,7 +29,7 @@
 [![0xAhmadYousuf's GitHub | Stats](https://stats.quine.sh/0xAhmadYousuf/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0xAhmadYousuf)
 
 ## 🌐 Socials:
-<div align="center"style="text-decoration: none;">
+<div align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/Unkn0wn2603/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -46,6 +46,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
 
  ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603) 
