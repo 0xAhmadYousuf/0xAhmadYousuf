@@ -1,10 +1,7 @@
+<b style="font-size: 40px;">I'm Ahmad Yousuf</b>
+<br>
+<b style="font-size: 20px;">Aspiring Developer specialised in Django.</b>
 
-
-<div style="text-align: left; font-size: 20px;">
-  <b style="font-size: 30px;">I'm Ahmad Yousuf</b>
-  <br>
-  <b>Aspiring Developer specialised in Django.</b>
-</div>
 <div align="left" style="text-decoration: none;">
   <div style="text-align: left; font-size: 20px;">
       <br><b>🌐 Socials:</b><br><br>
