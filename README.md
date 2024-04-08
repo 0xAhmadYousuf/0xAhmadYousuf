@@ -19,11 +19,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
+
+
+
+
+
+
 ## 📊 GitHub Stats:
 [![0xAhmadYousuf's GitHub | Stats](https://stats.quine.sh/0xAhmadYousuf/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0xAhmadYousuf)
 
 ## 🌐 Socials:
-<div align="center">
+<div align="center"style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/Unkn0wn2603/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
