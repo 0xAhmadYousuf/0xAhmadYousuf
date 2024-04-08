@@ -1,7 +1,7 @@
-<h1 align="center">I'm Ahmad Yousuf<h1>
-<h2 align="center">Aspiring Developer specialised in Django.<h2>
-<h2 align="center">💻 I code with:<h2>
-<div align="center">
+# I'm Ahmad Yousuf, Aspiring Developer specialised in Python & Django.
+
+<div align="left">
+  <h2> 💻 I code with:<h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -53,39 +53,7 @@
 
 
 
-
-
-
-
-
-I'm an experienced Native Web App Developer with 5+ years of hands-on experience in Python and api System. 
-I've solved many challenges on LeetCode, honing my problem-solving skills. 
-I excel in MVVM Architecture, Rest API, Firebase, Google Maps, Payment Gateway, and SMS gateway integration.
-I'm also venturing into Backend Technology, mastering Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL. 
-I've contributed to five successful backend projects, understand Java Microservices, AOP, and AWS technologies like EC2 and RDS.
-I thrive in dynamic environments, value collaboration, and bring a versatile skill set. 
-Let's connect to explore exciting mobile and backend tech projects. 
-Reach out for Android development, backend solutions, or any tech endeavors.
-
-
-
-Skilled Python developer (Django) with
-cybersecurity expertise. Leverage
-technology to create secure web
-applications, automate tasks, and
-implement robust security measures. CTF
-experience fosters a strong understanding
-of system protection. Passionate about
-elegant solutions and impactful results.
-
-I am proficient in multiple languages,
-including English (Read, Write, Hear,
-Speak), Urdu (Read, Write, Hear, Speak),
-Farsi (Read, Write), and Arabic (Read,
-Write, Hear, Speak). My skills encompass
-reading, writing, hearing, and speaking in
-these languages to varying degrees of
-proficiency.
+With over 5 years of experience in Native Web App Development, my expertise lies primarily in Python and API systems. I've honed my problem-solving skills through challenges on platforms like LeetCode, excelling in MVVM Architecture, Rest API, and integrations with Firebase, Google Maps, and more. Venturing into Backend Technology, I've mastered Django for secure web applications and automation, with a strong emphasis on cybersecurity garnered through CTF experiences. I've contributed to successful backend projects, understanding SQL for database management. Proficient in English, Urdu, Farsi, and Arabic, my linguistic versatility fosters effective communication. My adaptable nature thrives in dynamic environments, fostering collaboration and innovation. 
 
 ### OPEN SOURCE PROJECTS
 
