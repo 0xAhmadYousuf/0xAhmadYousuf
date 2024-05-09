@@ -37,10 +37,6 @@
     </a>
 </div>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603) 
-<a href = 'https://www.fiverr.com/Unkn0wn2603'><img src = "https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
-
 #### With over 5 years of experience in Native Web App Development, my expertise lies primarily in Python and API systems. I've honed my problem-solving skills through challenges on platforms like LeetCode, excelling in MVVM Architecture, Rest API, and integrations with Firebase, Google Maps, and more. Venturing into Backend Technology, I've mastered Django for secure web applications and automation, with a strong emphasis on cybersecurity garnered through CTF experiences. I've contributed to successful backend projects, understanding SQL for database management. Proficient in English, Urdu, Farsi, and Arabic, my linguistic versatility fosters effective communication. My adaptable nature thrives in dynamic environments, fostering collaboration and innovation. 
 
 ### OPEN SOURCE PROJECTS
@@ -87,3 +83,9 @@
 <a href="https://leetcode.com/Unkn0wn2603/"><img align="center" height="150em" src="https://leetcard.jacoblin.cool/Unkn0wn2603?theme=dark" alt="0xAhmadYousuf" /><a href="https://github.com/0xAhmadYousuf/"><img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAhmadYousuf&theme=tokyonight&layout=compact" alt="0xAhmadYousuf" />
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603) 
+<a href = 'https://www.fiverr.com/Unkn0wn2603'><img src = "https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
