@@ -61,13 +61,10 @@
 ```
 
 <h2 align="center">ICON OF REFERENCE</h2>
-
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,c,css,django,flask,html,js,py,pytorch,tensorflow,nextjs" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ae,anaconda,docker,git,github,githubactions,gitlab,pycharm,vscode,postman,replit" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,heroku,firebase,raspberrypi,redhat,ubuntu,linux,debian" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,wordpress,regex,discord,bots,gmail,instagram,linkedin,stackoverflow" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,powershell,windows,arch,raspberrypi,redhat,ubuntu,linux,debian,md,ps" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svg,xd" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,c,css,django,flask,html,nodejs,js,py,pytorch,tensorflow,nextjs,ae,anaconda,docker" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,pycharm,vscode,postman,replit,aws,azure,gcp,cloudflare,heroku,firebase,raspberrypi" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redhat,ubuntu,linux,debian,mongodb,mysql,sqlite,wordpress,regex,discord,bots,gmail,instagram,linkedin,stackoverflow" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,powershell,windows,arch,raspberrypi,redhat,ubuntu,linux,debian,md,ps,svg,xd" /></a></p>
 
 <h2 align="center"></h2>
 
@@ -78,5 +75,4 @@
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-## 💰 You can help my CTF-ORION project by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603)
+## 💰 You can help my CTF-ORION project by Donating ----------------- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603)
