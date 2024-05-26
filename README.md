@@ -1,6 +1,5 @@
-<b style="font-size: 40px;">I'm Ahmad Yousuf</b>
-<br>
-<b style="font-size: 20px;">Aspiring Developer specialised in Django.</b>
+# I'm Ahmad Yousuf
+## Aspiring Developer specialised in Django.
 
 <div align="left" style="text-decoration: none;">
   <div style="text-align: left; font-size: 20px;">
@@ -60,7 +59,7 @@
 ### RECENT PROJECTS
 * <p><a href="https://github.com/0xAhmadYousuf/Hash2603" target="_blank">Hash2603</a> - A Hashing system to make hashing more secure</p>
 
-<h2 align="center"></h2>
+<h2 align="center">ICON OF REFERENCE</h2>
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,c,css,django,flask,html,js,py,pytorch,tensorflow,nextjs" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ae,anaconda,docker,git,github,githubactions,gitlab,pycharm,vscode,postman,replit" /></a></p>
@@ -78,6 +77,5 @@
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603) 
-<a href = 'https://www.fiverr.com/Unkn0wn2603'><img src = "https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
+## 💰 You can help my CTF-ORION project by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603)
