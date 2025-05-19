@@ -1,4 +1,4 @@
-# [I'm Ahmad Yousuf](https://0xAhmadYousuf.com)
+# [I'm Ahmad Yousuf](https://0xAhmadYousuf.com?ref=https://github.com/0xAhmadYousuf/)
 
 - ## Aspiring Developer specialised in Django.
 - #### With over 5 years of experience in Native Web App Development, my expertise lies primarily in Python and API systems. I've honed my problem-solving skills through challenges on platforms like LeetCode, excelling in MVVM Architecture, Rest API, and integrations with Firebase, Google Maps, and more. Venturing into Backend Technology, I've mastered Django for secure web applications and automation, with a strong emphasis on cybersecurity garnered through CTF experiences. I've contributed to successful backend projects, understanding SQL for database management. Proficient in English, Urdu, Farsi, and Arabic, my linguistic versatility fosters effective communication. My adaptable nature thrives in dynamic environments, fostering collaboration and innovation.
