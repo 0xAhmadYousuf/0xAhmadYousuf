@@ -41,12 +41,14 @@ Backend Developer with expertise in **Django** and **Python**, specializing in *
 ## Organizations I Maintain
 
 ### 🛡️ CTF-Orion - Next-Gen CTF Platform
-** [ctforion.com](https://ctforion.com)**
+
+[ctforion.com](https://ctforion.com)
 
 Alternative to CTFd, currently in active development. Building a modern CTF competition platform using **Django** and **PHP** for hosting Capture The Flag challenges covering Pwn, Web Exploitation, Reverse Engineering, Forensics, and more.
 
 ### 🔬 QudsLab - Advanced Privacy & Cryptography Research
-** [qudslab.com](https://qudslab.com)**
+
+[qudslab.com](https://qudslab.com)
 
 Focused on cutting-edge research in **Post-Quantum Cryptography (PQC)** and developing next-generation anonymous social systems built on **Tor infrastructure**. Creating truly private, quantum-resistant communication platforms for the future.
 
