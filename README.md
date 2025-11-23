@@ -149,7 +149,7 @@ Reverse Engineering • Binary Exploitation • Forensics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAhmadYousuf&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
-<img src="https://leetcard.jacoblin.cool/Unkn0wn2603?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/0xAhmadYousuf?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="49%"/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAhmadYousuf&theme=react-dark&hide_border=true&area=true)
 
