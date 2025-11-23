@@ -38,21 +38,21 @@ Backend Developer with expertise in **Django** and **Python**, specializing in *
 
 ---
 
-## 🏢 Organizations I Maintain
+## Organizations I Maintain
 
 ### 🛡️ CTF-Orion - Next-Gen CTF Platform
-**🌐 [ctforion.com](https://ctforion.com)**
+** [ctforion.com](https://ctforion.com)**
 
 Alternative to CTFd, currently in active development. Building a modern CTF competition platform using **Django** and **PHP** for hosting Capture The Flag challenges covering Pwn, Web Exploitation, Reverse Engineering, Forensics, and more.
 
 ### 🔬 QudsLab - Advanced Privacy & Cryptography Research
-**🌐 [qudslab.com](https://qudslab.com)**
+** [qudslab.com](https://qudslab.com)**
 
 Focused on cutting-edge research in **Post-Quantum Cryptography (PQC)** and developing next-generation anonymous social systems built on **Tor infrastructure**. Creating truly private, quantum-resistant communication platforms for the future.
 
 ---
 
-## 🎁 Featured Projects
+## Featured Projects
 
 | # | Project | Description | Stats |
 |:-:|:--------|:------------|:-----:|
@@ -66,15 +66,27 @@ Focused on cutting-edge research in **Post-Quantum Cryptography (PQC)** and deve
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-### 🔐 Primary Focus
+### Primary Focus
 ```
 Post-Quantum Cryptography (PQC) • Lattice-based Cryptography • Ring-LWE
 Quantum-Resistant Algorithms • Tor Network Security • Anonymous Communication Systems
 ```
 
-## Languages & Frameworks
+### Security & CTF Skills
+```
+Web Security: SQL Injection • XSS • XMLRPC • CSRF • Information Disclosure
+Network: Port Scanning • Network Analysis • Packet Sniffing
+Cryptography: PQC • Hash Functions • Encryption Algorithms
+OSINT: Dorking • Reconnaissance • Data Mining
+Reverse Engineering • Binary Exploitation • Forensics
+```
+
+### Technologies familiar with...
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -86,20 +98,14 @@ Quantum-Resistant Algorithms • Tor Network Security • Anonymous Communicatio
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-## Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-## Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -107,8 +113,6 @@ Quantum-Resistant Algorithms • Tor Network Security • Anonymous Communicatio
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-## Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -117,8 +121,6 @@ Quantum-Resistant Algorithms • Tor Network Security • Anonymous Communicatio
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-
-## Operating Systems & Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -127,22 +129,13 @@ Quantum-Resistant Algorithms • Tor Network Security • Anonymous Communicatio
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Security & CTF Skills
-```
-Web Security: SQL Injection • XSS • XMLRPC • CSRF • Information Disclosure
-Network: Port Scanning • Network Analysis • Packet Sniffing
-Cryptography: PQC • Hash Functions • Encryption Algorithms
-OSINT: Dorking • Reconnaissance • Data Mining
-Reverse Engineering • Binary Exploitation • Forensics
-```
-
-### 🌐 Other Technologies
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
+
+</div>
 
 ---
 
