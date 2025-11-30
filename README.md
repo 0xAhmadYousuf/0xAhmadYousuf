@@ -145,8 +145,8 @@ Reverse Engineering • Binary Exploitation • Forensics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAhmadYousuf&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 <img src="https://leetcard.jacoblin.cool/0xAhmadYousuf?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="49%"/>
