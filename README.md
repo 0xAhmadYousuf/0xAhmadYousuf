@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-Backend Developer with expertise in **Django** and **Python**, specializing in **Post-Quantum Cryptography (PQC)** research and privacy-focused systems. Building next-generation anonymous communication platforms leveraging **Tor architecture** and quantum-resistant cryptographic implementations. Active CTF competitor, open-source contributor, and maintainer of security-focused organizations. Passionate about creating secure, scalable backend solutions for the future of digital privacy.
+Backend Developer with expertise in **Django** and **Python**, specializing in **Post-Quantum Cryptography (PQC)** research and privacy-focused systems. Building next-generation Decentralized communication platforms leveraging **Tor architecture** and quantum-resistant cryptographic implementations. Active CTF competitor, open-source contributor, and maintainer of security-focused organizations. Passionate about creating secure, scalable backend solutions for the future of digital privacy.
 
 **🌍 Location:** Dhaka, Bangladesh  
 **💼 Company:** RightBiz  
-**🗣️ Languages:** Bangla (Native) • English • Arabic • Urdu • Hindi • Farsi
+**🗣️ Languages:** Bangla (Native) • English • Urdu • Hindi • Arabic • Farsi
 
 ---
 
