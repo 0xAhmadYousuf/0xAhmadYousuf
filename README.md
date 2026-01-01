@@ -52,22 +52,6 @@ Alternative to CTFd, currently in active development. Building a modern CTF comp
 
 Focused on cutting-edge research in **Post-Quantum Cryptography (PQC)** and developing next-generation anonymous social systems built on **Tor infrastructure**. Creating truly private, quantum-resistant communication platforms for the future.
 
----
-
-## Featured Projects
-
-| # | Project | Description | Stats |
-|:-:|:--------|:------------|:-----:|
-| **1** | [**Unkn0wn_Tool**](https://github.com/0xAhmadYousuf/Unkn0wn_Tool) | 🔐 Multi-functional Security Toolkit - Dork Searcher, IP-to-Domain Converter, CMS Detector & Port Scanner | ![Stars](https://img.shields.io/github/stars/0xAhmadYousuf/Unkn0wn_Tool?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/0xAhmadYousuf/Unkn0wn_Tool?style=flat-square&label=🔱) |
-| **2** | [**dtor**](https://github.com/QudsLab/dtor) | 🌐 Tor-based Anonymous Communication System | ![Stars](https://img.shields.io/github/stars/QudsLab/dtor?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/QudsLab/dtor?style=flat-square&label=🔱) |
-| **3** | [**dpqc**](https://github.com/QudsLab/dpqc) | 🔒 Post-Quantum Cryptography Implementation Library | ![Stars](https://img.shields.io/github/stars/QudsLab/dpqc?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/QudsLab/dpqc?style=flat-square&label=🔱) |
-| **4** | [**pqchub**](https://github.com/QudsLab/pqchub) | 🛡️ PQC Hub - Quantum-Resistant Cryptographic Primitives | ![Stars](https://img.shields.io/github/stars/QudsLab/pqchub?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/QudsLab/pqchub?style=flat-square&label=🔱) |
-| **5** | [**tor-versions**](https://github.com/QudsLab/tor-versions) | 📦 Tor Binary Version Manager & Distribution System | ![Stars](https://img.shields.io/github/stars/QudsLab/tor-versions?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/QudsLab/tor-versions?style=flat-square&label=🔱) |
-| **6** | [**U-YDT**](https://github.com/0xAhmadYousuf/U-YDT) | 📥 Advanced YouTube Downloader - CLI Tool for Videos, Playlists & Channels | ![Stars](https://img.shields.io/github/stars/0xAhmadYousuf/U-YDT?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/0xAhmadYousuf/U-YDT?style=flat-square&label=🔱) |
-| **7** | [**UDorkMaker**](https://github.com/fhixa/UDorkMaker) | 🔍 Google Dork Query Generator for Security Research | ![Stars](https://img.shields.io/github/stars/fhixa/UDorkMaker?style=flat-square&label=⭐) ![Forks](https://img.shields.io/github/forks/fhixa/UDorkMaker?style=flat-square&label=🔱) |
-
----
-
 # Tech Stack
 
 ### Primary Focus
