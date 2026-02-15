@@ -176,13 +176,16 @@ Reverse Engineering • Binary Exploitation • Forensics
 
 ---
 
+<!--
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="center"> 
+-->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/> -->
 
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAhmadYousuf&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 <img src="https://leetcard.jacoblin.cool/0xAhmadYousuf?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="49%"/>
 
@@ -199,25 +202,13 @@ Reverse Engineering • Binary Exploitation • Forensics
 </div>
 
 ---
-
+-->
 ## 💰 Support My Work
 
-Your support helps maintain **CTF-Orion** and develop cutting-edge open-source security & privacy tools!
+Your support helps maintain **QudsLab** and develop cutting-edge open-source security & privacy tools!
 
 <div align="center">
-
+  
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603)
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=0xAhmadYousuf&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-
-**⭐ From [0xAhmadYousuf](https://github.com/0xAhmadYousuf) with 💚**
-
+[![Profile Views](https://komarev.com/ghpvc/?username=0xAhmadYousuf&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://www.0xAhmadYousuf.com)
 </div>
