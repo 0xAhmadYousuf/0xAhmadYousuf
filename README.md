@@ -2,213 +2,115 @@
 
 # 👋 Ahmad Yousuf
 
-### Backend Developer & Cybersecurity Researcher
+### Backend Software Engineer · Python, Flask, Django
 
-[![Website](https://img.shields.io/badge/🌐_Website-0xAhmadYousuf.com-009977?style=for-the-badge)](https://0xAhmadYousuf.com)
-[![CTF-Orion](https://img.shields.io/badge/🛡️_CTF--Orion-ctforion.com-ff6b6b?style=for-the-badge)](https://ctforion.com)
-[![QudsLab](https://img.shields.io/badge/🔬_QudsLab-qudslab.com-4a90e2?style=for-the-badge)](https://qudslab.com)
+Founder · backend · IoT · security
+
+[![Website](https://img.shields.io/badge/🌐_Website-0xAhmadYousuf.com-009977?style=for-the-badge)](https://0xahmadyousuf.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-PDF-2d6a4f?style=for-the-badge)](https://ahmadbinhaque.com/assets/AhmadYousuf_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-AhmadBinHaque@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:AhmadBinHaque@proton.me)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-Backend Developer with expertise in **Django** and **Python**, specializing in **Post-Quantum Cryptography (PQC)** research and privacy-focused systems. Building next-generation Decentralized communication platforms leveraging **Tor architecture** and quantum-resistant cryptographic implementations. Active CTF competitor, open-source contributor, and maintainer of security-focused organizations. Passionate about creating secure, scalable backend solutions for the future of digital privacy.
+Backend engineer with **6 years of Python**, **5 years of Flask** and **4 years of Django**. I build and maintain APIs, database-backed applications, payment and search features, and debug production systems at a UK business marketplace. I also founded and lead an IoT startup, delivering from device firmware to backend. I started by writing Python tools for the Bangladesh ethical-hacking community, which gave me a solid base in security, testing and secure coding.
 
-**🌍 Location:** Dhaka, Bangladesh  
-**💼 Company:** RightBiz  
+**📍 Location:** Dhaka, Bangladesh (open to remote)
+**💼 Working at:** Rightbiz Ltd. (Backend Developer, since Oct 2024)
 **🗣️ Languages:** Bangla (Native) • English • Urdu • Hindi • Arabic • Farsi
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 What I'm Doing
+
+| Role | Where | Focus |
+|---|---|---|
+| Backend Developer | **Rightbiz Ltd.** (UK marketplace, remote) · 2024 – Present | APIs, search, role-based access, payments backend, Hubstaff integration, production debugging |
+| Founder, Tech Lead & IoT Engineer | **ZickRock** · 2026 – Present | GPS fleet tracking: ESP32-S3 firmware, dual GNSS + dual IMU, Extended Kalman Filter pipeline |
+| Founder | **QudsLab** · 2025 – Present | Open-source post-quantum crypto and privacy research |
+| Engineer | **RuntimeSolution** | PayRouter payment orchestration API |
+| Owner | **CTFOrion** | CTF platform and community for Bangladesh |
+
+---
+
+## 🧩 Projects
+
+- **[TracePrint](https://traceprint.online)** – privacy-aware browser fingerprinting service, a lightweight FingerprintJS alternative (Flask, JavaScript, Docker)
+- **[TaskDash](https://taskdash.online)** – team productivity and task management with crew-duty workflows
+- **[PayRouter](https://payrouter.online)** – payment orchestration: vendors to gateways through one API, credentials isolated in an ML-KEM-1024 + AES-256-GCM vault
+- **[CTFOrion](https://ctforion.com)** – capture-the-flag platform in Flask with SQL storage, used by the Bangladesh CTF community
+- **[NextSSL](https://github.com/QudsLab/NextSSL)** – open-source post-quantum-first crypto toolkit (C, WASM), 776 algorithms across 22 categories
+- **[BDIX](https://github.com/0xAhmadYousuf/BDIX)** – finds the fastest BDIX-peered servers in Bangladesh
+- **[PHP Error Log Viewer](https://github.com/0xAhmadYousuf/PHP-Error-Log-Viewer)** – real-time PHP log monitor with severity filters
+- **[DockTor](https://github.com/0xAhmadYousuf/DockTor)** – dockerized Flask app that routes traffic through Tor
+
+📑 Research paper: [The Quantum Reset](https://doi.org/10.5281/zenodo.19884292) (Zenodo, 2026) – client-side entropy and seed-rooted key derivation
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages : Python • PHP • SQL • JavaScript • Bash • Java (basic) • C (basic)
+Backend   : Flask • Django • REST API design • Webhooks • Authentication • RBAC • Payment integrations
+Databases : MySQL • MariaDB • PostgreSQL • SQLite • Redis • Typesense
+Tools     : Git • GitHub Actions • Docker • Linux • Nginx • Playwright • Selenium
+IoT       : ESP32-S3 • GNSS/IMU sensor fusion (EKF) • SD-card storage and data compression
+Security  : Web app security • Secure API design • OSINT • AES-GCM • HKDF • Argon2 • BLAKE3 • ML-KEM • ML-DSA
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+</div>
+
+---
+
+## 🛡️ Security & Community
+
+- 🏆 **TryHackMe Top 1% globally** — Jr Penetration Tester, Offensive Pentesting and CompTIA Pentest+ paths
+- 🚩 CTFs: Bangladesh National CTF 2021, CrewCTF, NahamCon, VishwaCTF, CyberYami, OFPPT
+- 🎓 Former OSINT instructor for the Bangladesh grey-hat community
+- 🤝 Vice Chairperson, Collective Insight Organization
+- 📜 Aviatrix Multi-Cloud Network Associate (2023), CodeRed Ethical Hacker Essential (2022)
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xAhmadYousuf/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/0xAhmadYousuf/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/0xAhmadYousuf/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OxAhmadYousuf/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhmadBinHaque)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Unkn0wn2603/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Unkn0wn2603)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Unkn0wn2603@protonmail.com)
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:AhmadBinHaque@proton.me)
 
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=0xAhmadYousuf&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://0xahmadyousuf.com)
 
----
-
-## Organizations I Maintain
-
-### 🛡️ CTF-Orion - Next-Gen CTF Platform
-
-[ctforion.com](https://ctforion.com)
-
-Alternative to CTFd, currently in active development. Building a modern CTF competition platform using **Django** and **PHP** for hosting Capture The Flag challenges covering Pwn, Web Exploitation, Reverse Engineering, Forensics, and more.
-
-### 🔬 QudsLab - Advanced Privacy & Cryptography Research
-
-[qudslab.com](https://qudslab.com)
-
-Focused on cutting-edge research in **Post-Quantum Cryptography (PQC)** and developing next-generation anonymous social systems built on **Tor infrastructure**. Creating truly private, quantum-resistant communication platforms for the future.
-
-# Tech Stack
-
-### Primary Focus
-```
-Post-Quantum Cryptography (PQC) • Lattice-based Cryptography • Ring-LWE
-Quantum-Resistant Algorithms • Tor Network Security • Anonymous Communication Systems
-```
-
-### Security & CTF Skills
-```
-Web Security: SQL Injection • XSS • XMLRPC • CSRF • Information Disclosure
-Network: Port Scanning • Network Analysis • Packet Sniffing
-Cryptography: PQC • Hash Functions • Encryption Algorithms
-OSINT: Dorking • Reconnaissance • Data Mining
-Reverse Engineering • Binary Exploitation • Forensics
-```
-
-### Technologies familiar with...
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
-
-</div>
-
-
-
-<!--
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
-
-</div>
-
--->
-
-
-
-
----
-
-<!--
-## 📊 GitHub Statistics
-
-<div align="center"> 
--->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmadYousuf&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/> -->
-
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAhmadYousuf&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
-<img src="https://leetcard.jacoblin.cool/0xAhmadYousuf?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="49%"/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAhmadYousuf&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-
-</div>
-
----
--->
-## 💰 Support My Work
-
-Your support helps maintain **QudsLab** and develop cutting-edge open-source security & privacy tools!
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Unkn0wn2603)
-[![Profile Views](https://komarev.com/ghpvc/?username=0xAhmadYousuf&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://www.0xAhmadYousuf.com)
 </div>
